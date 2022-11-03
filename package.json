@@ -12,13 +12,14 @@
         "url": "git+https://andriideikalo.github.io/goit-js-hw-08"
     },
     "keywords": [],
-    "author": "Andrii Deikalo <wlada801@gmail.com>",
+    "author": "__",
     "license": "ISC",
     "bugs": {
         "url": "https://andriideikalo.github.io/goit-js-hw-08/issues"
     },
     "dependencies": {
-        "modern-normalize": "^1.1.0"
+        "modern-normalize": "^1.1.0",
+        "simplelightbox": "^2.10.4"
     },
     "devDependencies": {
         "@parcel/transformer-sass": "^2.6.0",
