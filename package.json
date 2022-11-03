@@ -9,13 +9,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+        "url": "git+https://andriideikalo.github.io/goit-js-hw-08"
     },
     "keywords": [],
-    "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+    "author": "Andrii Deikalo <wlada801@gmail.com>",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/goitacademy/parcel-project-template/issues"
+        "url": "https://andriideikalo.github.io/goit-js-hw-08/issues"
     },
     "dependencies": {
         "modern-normalize": "^1.1.0"
